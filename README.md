@@ -17,4 +17,4 @@ Navigate through various dashboards and storyboards to explore vaccination trend
 The dataset includes information on vaccination progress by country and vaccine manufacturer. It's sourced from Kaggle and updated regularly to reflect ongoing vaccination efforts.
 
 ## Contributing
-Yaira Falcon & Abdiel Ngando
+Aqsa Noreen, Yaira Falcon, & Abdiel Ngando
